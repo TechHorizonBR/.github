@@ -1,3 +1,7 @@
+# TechHorizon
+Grupo criado para desenvolvimento dos projetos proposto pelo API (Aprendizagem por Projetos Integrados) da universidade FATEC São José dos Campos - Prof. Jessen Vidal.
+
+
 # Contribuidores
 
 | NOME | FUNÇÃO | NETWORKING    | IDENTIFICAÇÃO |
