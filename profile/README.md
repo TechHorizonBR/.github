@@ -25,7 +25,7 @@ Grupo criado para desenvolvimento dos projetos proposto pelo API (Aprendizagem p
       <tr>
       <tr>
         <td align="center">André Filipe</td>
-        <td align="center">Product Owner</td>      
+        <td align="center">Developer</td>      
         <td align="center">
           <a href="https://github.com/AndreMeneses0103"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
           <a href="https://www.linkedin.com/in/andre-meneses-dev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -59,7 +59,7 @@ width="60"></a>
       <tr>
                  <tr>
         <td align="center">Jhony Santos</td>
-        <td align="center">Scrum Master</td>      
+        <td align="center">Developer</td>      
         <td align="center">
           <a href="https://github.com/santosjhony12"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
           <a href="https://www.linkedin.com/in/jhony-santos-de-souza-920229238"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -81,7 +81,7 @@ width="60"></a>
       <tr>
       <tr>
         <td align="center">Luis Guimarães</td>
-        <td align="center">Developer</td>      
+        <td align="center">Scrum Master</td>      
         <td align="center">
           <a href="https://github.com/LuisPGuimaraes"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white5" alt="GitHub"></a>
           <a href="https://www.linkedin.com/in/luis-guimar%C3%A3es-99865b1b8"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -92,7 +92,7 @@ width="60"></a>
       <tr>
       <tr>
         <td align="center">Raul Neto</td>
-        <td align="center">Developer</td>      
+        <td align="center">Product Owner</td>      
         <td align="center">
           <a href="https://github.com/raulnt"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
           <a href="https://www.linkedin.com/in/raul-neto-b51b24157/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
