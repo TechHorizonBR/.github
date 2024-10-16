@@ -35,15 +35,15 @@ Grupo criado para desenvolvimento dos projetos proposto pelo API (Aprendizagem p
 width="60"></a>
         </td>
       <tr>
-          <tr>
-        <td align="center">Beatriz Plácido</td>
-        <td align="center">Developer</td>      
+              <tr>
+        <td align="center">Cainan Thomas</td>
+        <td align="center">Scrum Master</td>      
         <td align="center">
-          <a href="https://github.com/BeatrizPlacido"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-          <a href="https://www.linkedin.com/in/beatrizzpl%C3%A1cido"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+          <a href="https://github.com/Kainanthyz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+          <a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
         </td>
         <td align="center">
-          <a href="" ><img src="https://avatars.githubusercontent.com/u/127264395?v=4" width="60"></a>
+          <a href="" ><img src="https://avatars.githubusercontent.com/u/91689791?v=4" width="60"></a>
         </td>
       <tr>
       <tr>
@@ -57,7 +57,18 @@ width="60"></a>
           <img src="https://avatars.githubusercontent.com/u/121205315?v=4" width="60">
         </td>
       <tr>
-                 <tr>
+      <tr>
+        <td align="center">Guilherme Wunderlich</td>
+        <td align="center">Developer</td>      
+        <td align="center">
+          <a href="https://github.com/wunderlich-15"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white5" alt="GitHub"></a>
+          <a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+        </td>
+        <td align="center">
+          <img src="https://avatars.githubusercontent.com/u/74203181?v=4" width="60">
+        </td>
+      <tr>
+       <tr>
         <td align="center">Jhony Santos</td>
         <td align="center">Developer</td>      
         <td align="center">
@@ -66,28 +77,6 @@ width="60"></a>
         </td>
         <td align="center">
           <img src="https://avatars.githubusercontent.com/u/123211025?v=4" width="60">
-        </td>
-      <tr>
-      <tr>
-        <td align="center">Lucas Lima</td>
-        <td align="center">Developer</td>      
-        <td align="center">
-          <a href="https://github.com/SuieverSide"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-          <a href="https://www.linkedin.com/in/lucas-lima-a20055144/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-        </td>
-        <td align="center">
-          <img src="https://avatars.githubusercontent.com/u/31674205?v=4" width="60">
-        </td>
-      <tr>
-      <tr>
-        <td align="center">Luis Guimarães</td>
-        <td align="center">Scrum Master</td>      
-        <td align="center">
-          <a href="https://github.com/LuisPGuimaraes"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white5" alt="GitHub"></a>
-          <a href="https://www.linkedin.com/in/luis-guimar%C3%A3es-99865b1b8"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-        </td>
-        <td align="center">
-          <img src="https://avatars.githubusercontent.com/u/127263371?v=4" width="60">
         </td>
       <tr>
       <tr>
